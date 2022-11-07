@@ -10,7 +10,7 @@ typowy projekt z templatki z serwerem TCP i klientem rozruchowym
 
 ### wymagane przed uruchomieniem
 
-1. plik BootstrapClient.java ma klasę InterfaceSelectro z metodą main, która wyświetli dostępne adresy.
+1. plik BootstrapClient.java ma klasę InterfaceSelector z metodą main, która wyświetli dostępne adresy.
 2. w pliku BoostrapClient musisz nadpisać flagę
 3. w pliku Server.java musisz napisać adresy serwera z zadania i twojego serwera
 
